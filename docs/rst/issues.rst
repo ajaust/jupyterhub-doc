@@ -5,8 +5,8 @@ General
 -------
 
 #. When the server starts a **waiting page** is displayed. The **automatic
-   forwarding** to the notebook does not work. You have to refresh the
-   page manually using your browser.
+   forwarding** to the notebook occasionally fails. You have to refresh the
+   page manually using your browser in this case.
 
 #. **Servers cannot be stopped** using the web frontend
 
