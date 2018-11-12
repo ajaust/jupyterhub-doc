@@ -6,12 +6,14 @@
 JupyterHub documentation
 ========================
 
-Last update: 2018-11-07
-
 Current status
 --------------
 
-Server is up and running
+.. code-block:: none
+
+   Nothing to report
+
+Last update: 2018-11-12
 
 General information
 -------------------
@@ -44,18 +46,13 @@ This page will collect information obtained during the testing phase. We
 try to keep it up to date and inform about changes on this site.
 
 
-Planned maintenance
-^^^^^^^^^^^^^^^^^^^
-
-None
-
 Contents:
 
 .. toctree::
    :maxdepth: 2
    
-   software_installation
-   issues
+   rst/software_installation
+   rst/issues
 
 Indices and tables
 ==================
