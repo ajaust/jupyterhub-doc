@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-JupyterHub documentation
+KULeuven JupyterHub documentation
 ========================
 
 Current status
@@ -23,9 +23,12 @@ use the service without being explicitly added by us.
 
 The following resources are currently available:
 
--  5, 10 or 20 minutes of runtime
--  1/4 of a GPU node (9 CPUs, 1 GPU, 45gb or memory)
--  Four users/sessions can use the service at a time.
+-  5, 10 or 20 minutes of walltime
+
+-  9 CPUs, 1 GPU, 45gb of memory (1/4th of a GPU node) per session
+
+-  Four users/sessions can use the service at a time. Only one GPU node is available during the testing phase. This means there can be some waiting time until the session starts or a session might fail to start.
+
 
 The current settings should give everybody the opportunity to test their
 workflow and provide initial feedback. We hope that with the current
@@ -46,7 +49,7 @@ This page will collect information obtained during the testing phase. We
 try to keep it up to date and inform about changes on this site.
 
 
-Contents:
+**Contents**:
 
 .. toctree::
    :maxdepth: 2
