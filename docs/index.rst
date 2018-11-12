@@ -6,6 +6,8 @@
 KULeuven JupyterHub documentation
 =================================
 
+The service in an early testing phase. We expect things to break which can lead to unexpected downtimes. If you find any problems with the service, please inform us at: **MAILADDRESSTODO**
+
 Current status
 --------------
 
