@@ -1,3 +1,5 @@
+.. _software_installation-label:
+
 User-defined compute kernels
 ============================
 

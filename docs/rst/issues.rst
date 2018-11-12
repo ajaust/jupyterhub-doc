@@ -1,3 +1,5 @@
+.. _known_issues-label:
+
 Known issues
 ============
 
