@@ -9,7 +9,7 @@ but it will most likely not cover your workflow. It is impossible for us
 to cover every workflow due to different needs in software and software
 version. Therefore we intend to give the users a way to install and
 maintain their own software as we do it for python packages. The
-procedure is based on the python package management descrived on the
+procedure is based on the python package management described on the
 `VSC
 homepage <https://www.vscentrum.be/cluster-doc/development/python-packages>`__.
 

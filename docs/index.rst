@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-KULeuven JupyterHub documentation
+JupyterHub documentation
 =================================
 
-The service in an early testing phase. We expect things to break which can lead to unexpected downtimes. If you find any problems with the service, please inform us at: **MAILADDRESSTODO**
+The service in an early testing phase. We expect things to break which can lead to unexpected downtimes. If you find any problems with the service, please inform us.
 
 Current status
 --------------

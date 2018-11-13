@@ -46,9 +46,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'KULeuven JupyterHub documentation'
-copyright = '2018, KULeuven HPC group'
-author = 'KULeuven HPC group'
+project = 'JupyterHub documentation'
+copyright = '2018, VSC'
+author = 'VSC'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -107,7 +107,7 @@ todo_include_todos = False
 # -- Options for HTML output ----------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
-# a list of builtin themes.
+#i# a list of builtin themes.
 #html_theme = 'alabaster'
 #html_theme = 'bizstyle'
 #html_theme = 'classic'
