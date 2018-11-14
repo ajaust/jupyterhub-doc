@@ -25,7 +25,7 @@ use the service without being explicitly added by us.
 
 The following resources are currently available:
 
--  5, 10 or 20 minutes of walltime
+-  5, 10, 20 or 25 minutes of walltime
 
 -  9 CPUs, 1 GPU, 45gb of memory (1/4th of a GPU node) per session
 
