@@ -14,8 +14,9 @@ Current status
 .. code-block:: none
 
    Nothing to report
+   Last update: 2018-11-14
+   
 
-Last update: 2018-11-12
 
 General information
 -------------------
