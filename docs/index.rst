@@ -51,10 +51,10 @@ compute facilities needed by you.
 This page will collect information obtained during the testing phase. We
 try to keep it up to date and inform about changes on this site.
 
-For information about the installation of **own software** please consult: :ref:`known_issues-label`
+For information about the installation of **own software** please consult: :ref:`software_installation-label`
 
 
-For information about **known issues** please consult: :ref:`software_installation-label`
+For information about **known issues** please consult: :ref:`known_issues-label`
 
   
 
