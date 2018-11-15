@@ -14,7 +14,7 @@ General
 
    -  Running servers on the supercomputer can be stopped by deleting
       the job with ``qdel``
-   -  Local servers cannot be killed easily at the moment.
+   -  Local servers cannot be killed easily at the moment. (Local servers not available at the moment)
 
 #. There is now indication about **remaining walltime** in the Jupyter
    notebook. 
